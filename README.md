@@ -61,9 +61,9 @@ The automation is built using a no-code/low-code workflow platform (like n8n) an
 
 ## 📸 Screenshot of Workflow
 
-![Workflow Diagram](./workflow.png)
+![Workflow Diagram]([./workflow.png](https://github.com/ChaithuCE/AI-Meeting-Scheduler/blob/main/Workflow.png))
 
-(You can replace `workflow.png` with the actual filename like `1.png` or upload a clean screenshot.)
+
 
 ---
 
